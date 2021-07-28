@@ -24,7 +24,7 @@ I'm a Computer Engineering student, I love technology and I love learning new th
 ### Connect with me:
 
 <h1 align ="center"> 
-    <img src='image/logo_corebiz.png'>
+    <img src='https://www.google.com/search?rlz=1C1ISCS_pt-PTBR934BR934&sxsrf=ALeKk01q0L6uL6XGToLKwYpUI9GpSeHGMg:1627500776143&q=logo+linkedin&tbm=isch&chips=q:logo+linkedin,online_chips:logo+vector:oThc9gpFmM4%3D&usg=AI4_-kSxaKtk16Sb0wFi63zqB5rRAtuX7w&sa=X&ved=2ahUKEwi2sYjtwIbyAhWcEbkGHeuZB08QgIoDKAF6BAgGEAw&biw=1360&bih=625#imgrc=SQ4hDp-sUaynAM'>
 </h1>
 
 
