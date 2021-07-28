@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-### About me 
+### 😀 About me 
 
 I'm a Computer Engineering student, I love technology and I love learning new things.
+- I live in sao paulo Brazil.
+
+
+
+
 
 ### technologies 💻
 
-<div>HTML</div>
-div {
-width:50px;
-heigth:20px:
-background-color:red;
-}
 
 
 
