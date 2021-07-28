@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 😀 About me 
 
 I'm a Computer Engineering student, I love technology and I love learning new things.
-- I live in sao paulo Brazil.
+- I live in São Paulo, Brazil.
 
 ### Connect with me:
 
