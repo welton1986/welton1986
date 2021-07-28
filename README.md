@@ -23,9 +23,9 @@ I'm a Computer Engineering student, I love technology and I love learning new th
 
 ### Connect with me:
 
-<a href= "http:// www.linkedin.com/in/welton-cardoso-35394a112" target="_blank">
-  <img align="center" heigth="30" width="40" src= "https: //cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style = "max-width:100%;">
-  </a>
+<h1 align ="center"> 
+    <img src='image/logo_corebiz.png'>
+</h1>
 
 
 
