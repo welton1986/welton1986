@@ -23,9 +23,7 @@ I'm a Computer Engineering student, I love technology and I love learning new th
 
 ### Connect with me:
 
-<h1 align ="center"> 
-    <img src=>
-</h1>
+
 
 
 
