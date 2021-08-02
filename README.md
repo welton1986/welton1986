@@ -8,8 +8,29 @@
   
   
   
-  
-  <div style="display: inline_block"><br>
+
+
+
+### 😀 About me 
+
+I'm a Computer Engineering student, I love technology and I love learning new things.
+I live in São Paulo, Brazil.
+ 
+ 
+ 
+  <div> 
+ 
+  <a href="https://www.linkedin.com/in/welton-cardoso-35394a112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+</div> <br/><br/>
+
+
+
+
+### technologies 💻
+
+<div style="display: inline_block">
   <img align="center" alt="welton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="welton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="welton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,40 +39,6 @@
   <img align="center" alt="welton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>  <br/>
-  
-  
-  
-  <div> 
- 
-  <a href="https://www.linkedin.com/in/welton-cardoso-35394a112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
-
-
-
-### 😀 About me 
-
-I'm a Computer Engineering student, I love technology and I love learning new things.
-- I live in São Paulo, Brazil.
-
-
-
-
-
-
-
-
-
-
-### technologies 💻
-
-- HTML
-- Css
-- Git
-- JavaScript
-
 
 
 
