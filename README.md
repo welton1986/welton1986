@@ -18,23 +18,16 @@ I live in São Paulo, Brazil.
  
  
  
-  <div> 
+  <div style="display: inline_block"> 
  
   <a href="https://www.linkedin.com/in/welton-cardoso-35394a112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   <a href="https://www.youtube.com/channel/UC2DfgIR_svqSO1m77FNeLFA" target="_blank"><img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
  
 
 </div> 
  
- <div>
  
-  <a href="https://www.linkedin.com/in/welton-cardoso-35394a112" target="_blank"><img src="https://img.shields.io/badge/-youtube-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- </div>
- 
-
-
-
 
 ### technologies 💻
 
