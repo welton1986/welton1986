@@ -23,7 +23,7 @@ I live in São Paulo, Brazil.
   <a href="https://www.linkedin.com/in/welton-cardoso-35394a112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-</div> <br/><br/>
+</div> 
  
  <div>
  
