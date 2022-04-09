@@ -28,7 +28,7 @@
 
 ### 😀 About me 
 
-I'm a Computer Engineering student, I love technology and I love learning new things.
+I'm a Computer Engineering , I love technology and I love learning new things.
 I live in São Paulo, Brazil. <br/><br/>
  
  
