@@ -22,7 +22,6 @@
   
 </div>  <br/>
 
-https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor
 
 
   
